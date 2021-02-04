@@ -17,7 +17,7 @@ metadata:
     repository: https://github.com/knative/operator
     support: The Knative Authors
   name: knative-operator.v0.17.0
-  namespace: placeholder
+  namespace: operators
 spec:
   apiservicedefinitions: {}
   customresourcedefinitions:
